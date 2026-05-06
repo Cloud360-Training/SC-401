@@ -1,6 +1,6 @@
 # SC-401 Microsoft Administering Information Security in Microsoft 365: Training
 
-Welcome to the **SC-401 Microsoft Administering Information Security in Microsoft 365 Ninja Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the SC-401 certification exam.
+Welcome to the **SC-401 Microsoft Administering Information Security in Microsoft 365  Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the SC-401 certification exam.
 
 **Maintained by [Cloud360 Training](https://cloud360.co)** - Your trusted partner for Microsoft certification preparation.
 
